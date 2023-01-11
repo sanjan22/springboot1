@@ -1,0 +1,9 @@
+CASCADE:
+The cascade is a key feature in hibernate 
+>>The cascade is used to when the parent class affected by any crude operation
+autamatically it is affect child class also and viseversa
+>>In a cascade we have different types:
+*persist
+*remove
+*merge
+*All
